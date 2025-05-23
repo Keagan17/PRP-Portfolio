@@ -4,6 +4,7 @@
 ### Evidence
 - I did the course on blackboard and learned about career development.  
 - Completed the career development quiz, here is a screenshot
+
 ![Image](https://github.com/user-attachments/assets/b3bf8de0-2b86-4c73-8f76-8ef04d23f65f)
 
 ### Reflection (STAR Technique)
