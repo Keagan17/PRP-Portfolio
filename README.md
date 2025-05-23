@@ -33,7 +33,9 @@
 ## 3. Personality Assessment
 ### Evidence
 - Did the course on blackboard and learned more about myself.  
-- Completed the personality assessment quiz, here is a screenshot (link).
+- Completed the personality assessment quiz, here is a screenshot.
+
+![Image](https://github.com/user-attachments/assets/88175948-36bd-4e37-a376-0c2201fd1a88)
 
 ### Reflection (STAR Technique)
 - **Situation**: Wanted to understand my strengths and weaknesses.  
