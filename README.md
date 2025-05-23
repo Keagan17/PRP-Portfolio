@@ -1,4 +1,4 @@
-# Digital Portfolio for PRP370S
+# Digital Portfolio for Keagan Christians
 
 ## 1. Career Development
 ### Evidence
