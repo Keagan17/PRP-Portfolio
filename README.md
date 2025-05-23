@@ -18,7 +18,9 @@
 ## 2. Skills and Interests
 ### Evidence
 - I did the course on blackboard and learned more about my skills and interests.  
-- Completed the skills and interest quiz, here is a screenshot (link).
+- Completed the skills and interest quiz, here is a screenshot.
+
+![Image](https://github.com/user-attachments/assets/1d022d0e-a79b-43ce-830b-043682520b69)
 
 ### Reflection (STAR Technique)
 - **Situation**: I lacked confidence in my technical skills.  
