@@ -54,6 +54,8 @@
 
 - Created my CV, here it is.
 
+[keaganCV.pdf](https://github.com/user-attachments/files/20418523/keaganCV.pdf)
+
 ### Reflection (STAR Technique)
 - **Situation**: Needed a CV for job applications.  
 - **Task**: Had to summarize my qualifications.  
