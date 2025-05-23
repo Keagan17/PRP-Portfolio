@@ -66,8 +66,10 @@
 
 ## 5. CV Submission
 ### Evidence
-- Submitted my CV ().
-- Here is a screenshot of the submission ().
+- Submitted my CV.
+- Here is a screenshot of the submission.
+
+![Image](https://github.com/user-attachments/assets/65d42f4f-4aa7-491b-9076-060d1304cb1c)
 
 ### Reflection (STAR Technique)
 - **Situation**: Had a CV i created.  
