@@ -48,8 +48,11 @@
 ## 4. Create a CV
 ### Evidence
 - DId the course on blackboard and how to create a CV and what was important.
-- Did the create a CV quiz ().
-- Created my CV, here it is ().
+- Did the create a CV quiz.
+
+![Image](https://github.com/user-attachments/assets/565c8007-b36c-4495-91db-4323dc70c4ae)
+
+- Created my CV, here it is.
 
 ### Reflection (STAR Technique)
 - **Situation**: Needed a CV for job applications.  
