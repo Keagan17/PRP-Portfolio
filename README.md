@@ -76,3 +76,91 @@
 - **Task**: Had to submit the CV to blackboard.  
 - **Action**: Reviewed it and then submitted it.  
 - **Result**: Submitted my CV.
+
+---
+
+## 6. Business Communication  
+### Evidence  
+- Completed the Business Communication course on Blackboard.  
+- Learned about writing professional emails, reports, and effective communication in the workplace.  
+- Below is a screenshot of my course progress.  
+
+![Business Communication](https://github.com/user-attachments/assets/business-communication-example.png)  
+
+### Reflection (STAR Technique)  
+- **Situation:** I sometimes struggled to write formal emails when contacting lecturers or professionals.  
+- **Task:** Needed to improve my business writing and communication tone.  
+- **Action:** Completed the Business Communication module and practiced writing formal emails.  
+- **Result:** I now write clear, professional messages that reflect confidence and respect.  
+
+---
+
+## 7. Interview Skills  
+### Evidence  
+- Completed the Interview Skills course on Blackboard.  
+- Watched tutorial videos about answering common interview questions.  
+- Practiced preparing short introductions about myself.  
+
+![Interview Skills](https://github.com/user-attachments/assets/interview-skills-example.png)  
+
+### Reflection (STAR Technique)  
+- **Situation:** I was nervous about real job interviews and unsure how to answer tricky questions.  
+- **Task:** Needed to learn how to present myself confidently.  
+- **Action:** Studied common interview questions and practiced responses using the STAR method.  
+- **Result:** I can now answer confidently and give examples from my experience.  
+
+---
+
+## 8. Mock Interview  
+### Evidence  
+- Participated in a mock interview session as part of the Work Readiness training.  
+- Received feedback about body language, tone, and structure of answers.  
+
+![Mock Interview](https://github.com/user-attachments/assets/mock-interview-example.png)  
+
+### Reflection (STAR Technique)  
+- **Situation:** I took part in a mock interview for a software development position.  
+- **Task:** My goal was to test my communication and interview readiness.  
+- **Action:** Prepared answers in advance, dressed professionally, and attended the mock interview.  
+- **Result:** The interviewer said I showed good potential and improved my confidence.  
+
+---
+
+## 9. Professional Networking  
+### Evidence  
+- Learned about the importance of networking during the Work Readiness program.  
+- Created and updated my LinkedIn profile.  
+- Connected with classmates, lecturers, and IT professionals.  
+
+![Professional Networking](https://github.com/user-attachments/assets/professional-networking-example.png)  
+
+### Reflection (STAR Technique)  
+- **Situation:** I realized I didn’t have many professional contacts in my field.  
+- **Task:** Needed to build a network that could help with career opportunities.  
+- **Action:** Updated my LinkedIn profile and started connecting with IT professionals.  
+- **Result:** I now have a growing network that helps me learn about internships and job opportunities.  
+
+---
+
+## 10. Workplace Etiquette  
+### Evidence  
+- Completed the Workplace Etiquette course on Blackboard.  
+- Learned about appropriate behavior, teamwork, time management, and respect in the workplace.  
+
+![Workplace Etiquette](https://github.com/user-attachments/assets/workplace-etiquette-example.png)  
+
+### Reflection (STAR Technique)  
+- **Situation:** I wanted to understand how to act professionally in different work situations.  
+- **Task:** Needed to learn proper etiquette for meetings, communication, and teamwork.  
+- **Action:** Completed the module and reflected on workplace behavior scenarios.  
+- **Result:** I can now conduct myself professionally and handle conflicts or challenges respectfully.  
+
+---
+
+## 11. Conclusion  
+Completing this Work Readiness module has helped me grow personally and professionally.  
+I have learned how to communicate better, prepare for interviews, build networks, and present myself professionally in the workplace.  
+This has prepared me for real-world experiences in the IT field.  
+
+---
+
