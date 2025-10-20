@@ -85,7 +85,7 @@
 - Learned about writing professional emails, reports, and effective communication in the workplace.  
 - Below is a screenshot of my course progress.  
 
-<img width="1407" height="102" alt="Screenshot 2025-10-20 213157" src="https://github.com/user-attachments/assets/757fb982-31ce-4514-85d2-a9171cdd396d" />
+![Image](https://github.com/user-attachments/assets/757fb982-31ce-4514-85d2-a9171cdd396d)
 
 ### Reflection (STAR Technique)  
 - **Situation:** I sometimes struggled to write formal emails when contacting lecturers or professionals.  
@@ -116,7 +116,7 @@
 - Participated in a mock interview session as part of the Work Readiness training.  
 - Received feedback about body language, tone, and structure of answers.  
 
-![Mock Interview](https://github.com/user-attachments/assets/mock-interview-example.png)  
+ ![Image](https://github.com/user-attachments/assets/bf1b3d4b-2500-4a05-9174-716395db30c0)
 
 ### Reflection (STAR Technique)  
 - **Situation:** I took part in a mock interview for a software development position.  
@@ -132,7 +132,7 @@
 - Created and updated my LinkedIn profile.  
 - Connected with classmates, lecturers, and IT professionals.  
 
-![Professional Networking](https://github.com/user-attachments/assets/professional-networking-example.png)  
+![Image](https://github.com/user-attachments/assets/1cc1e61a-942d-407b-bc98-8ccb858dc89b)
 
 ### Reflection (STAR Technique)  
 - **Situation:** I realized I didn’t have many professional contacts in my field.  
@@ -147,7 +147,7 @@
 - Completed the Workplace Etiquette course on Blackboard.  
 - Learned about appropriate behavior, teamwork, time management, and respect in the workplace.  
 
-![Workplace Etiquette](https://github.com/user-attachments/assets/workplace-etiquette-example.png)  
+![Image](https://github.com/user-attachments/assets/9f1a5524-5b75-4bc1-be9f-7cd4a276fdcd)
 
 ### Reflection (STAR Technique)  
 - **Situation:** I wanted to understand how to act professionally in different work situations.  
