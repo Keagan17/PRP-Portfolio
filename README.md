@@ -85,7 +85,8 @@
 - Learned about writing professional emails, reports, and effective communication in the workplace.  
 - Below is a screenshot of my course progress.  
 
-![Business Communication](https://github.com/user-attachments/assets/business-communication-example.png)  
+<img width="1407" height="102" alt="Screenshot 2025-10-20 213157" src="https://github.com/user-attachments/assets/757fb982-31ce-4514-85d2-a9171cdd396d" />
+
 
 ### Reflection (STAR Technique)  
 - **Situation:** I sometimes struggled to write formal emails when contacting lecturers or professionals.  
