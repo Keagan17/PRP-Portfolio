@@ -87,7 +87,6 @@
 
 <img width="1407" height="102" alt="Screenshot 2025-10-20 213157" src="https://github.com/user-attachments/assets/757fb982-31ce-4514-85d2-a9171cdd396d" />
 
-
 ### Reflection (STAR Technique)  
 - **Situation:** I sometimes struggled to write formal emails when contacting lecturers or professionals.  
 - **Task:** Needed to improve my business writing and communication tone.  
@@ -102,7 +101,7 @@
 - Watched tutorial videos about answering common interview questions.  
 - Practiced preparing short introductions about myself.  
 
-![Interview Skills](https://github.com/user-attachments/assets/interview-skills-example.png)  
+ ![Image](https://github.com/user-attachments/assets/09ae957d-7374-4d31-87d9-b7d550ae9c07)
 
 ### Reflection (STAR Technique)  
 - **Situation:** I was nervous about real job interviews and unsure how to answer tricky questions.  
