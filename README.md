@@ -82,8 +82,7 @@
 ## 6. Business Communication  
 ### Evidence  
 - Completed the Business Communication course on Blackboard.  
-- Learned about writing professional emails, reports, and effective communication in the workplace.  
-- Below is a screenshot of my course progress.  
+- Did the Business Communication assessment.
 
 ![Image](https://github.com/user-attachments/assets/757fb982-31ce-4514-85d2-a9171cdd396d)
 
@@ -98,8 +97,7 @@
 ## 7. Interview Skills  
 ### Evidence  
 - Completed the Interview Skills course on Blackboard.  
-- Watched tutorial videos about answering common interview questions.  
-- Practiced preparing short introductions about myself.  
+- Did the Interview Skills assessment.
 
  ![Image](https://github.com/user-attachments/assets/09ae957d-7374-4d31-87d9-b7d550ae9c07)
 
@@ -113,24 +111,22 @@
 
 ## 8. Mock Interview  
 ### Evidence  
-- Participated in a mock interview session as part of the Work Readiness training.  
-- Received feedback about body language, tone, and structure of answers.  
+- DId the Mock Interview assessment.
 
  ![Image](https://github.com/user-attachments/assets/bf1b3d4b-2500-4a05-9174-716395db30c0)
 
 ### Reflection (STAR Technique)  
-- **Situation:** I took part in a mock interview for a software development position.  
+- **Situation:** I took part in a mock interview.  
 - **Task:** My goal was to test my communication and interview readiness.  
 - **Action:** Prepared answers in advance, dressed professionally, and attended the mock interview.  
-- **Result:** The interviewer said I showed good potential and improved my confidence.  
+- **Result:** It went well and improved my confidence.  
 
 ---
 
 ## 9. Professional Networking  
 ### Evidence  
-- Learned about the importance of networking during the Work Readiness program.  
-- Created and updated my LinkedIn profile.  
-- Connected with classmates, lecturers, and IT professionals.  
+- Completed the Professional Networking course on blackboard.
+- Did the Professional Networking assessment.
 
 ![Image](https://github.com/user-attachments/assets/1cc1e61a-942d-407b-bc98-8ccb858dc89b)
 
@@ -145,7 +141,7 @@
 ## 10. Workplace Etiquette  
 ### Evidence  
 - Completed the Workplace Etiquette course on Blackboard.  
-- Learned about appropriate behavior, teamwork, time management, and respect in the workplace.  
+- Did the Workplace Etiquette assessment.
 
 ![Image](https://github.com/user-attachments/assets/9f1a5524-5b75-4bc1-be9f-7cd4a276fdcd)
 
@@ -156,11 +152,3 @@
 - **Result:** I can now conduct myself professionally and handle conflicts or challenges respectfully.  
 
 ---
-
-## 11. Conclusion  
-Completing this Work Readiness module has helped me grow personally and professionally.  
-I have learned how to communicate better, prepare for interviews, build networks, and present myself professionally in the workplace.  
-This has prepared me for real-world experiences in the IT field.  
-
----
-
